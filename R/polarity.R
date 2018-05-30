@@ -54,7 +54,7 @@
 #'   \item  sd.polarity - The standard deviation of that group's sentence level polarity scores.
 #'   \item  stan.mean.polarity - A standardized polarity score calculated by taking the average polarity score for a group divided by the standard deviation.}
 #' }
-#' \item{digits}{integer value od number of digits to display; mostly internal 
+#' \item{digits}{integer value of number of digits to display; mostly internal 
 #' use} 
 #' @seealso \url{https://github.com/trestletech/Sermon-Sentiment-Analysis}
 #' @note The polarity score is dependent upon the polarity dictionary used.  
